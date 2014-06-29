@@ -4,7 +4,8 @@
 	"description": "Everything required to ensure that a browser is as ECMAScript-compliant as possible.",
 	"main": "index.js",
 	"scripts": {
-		"test": "node test/index.js"
+		"test": "npm run lint && node test/index.js",
+		"lint": "jscs *.js */*.js"
 	},
 	"repository": {
 		"type": "git",
@@ -28,7 +29,8 @@
 	},
 	"homepage": "https://github.com/es-shims/es-shims",
 	"dependencies": {
-		"tape": "~2.13.3"
+		"tape": "~2.13.3",
+		"jscs": "~1.5.6"
 	}
 }
 
