@@ -1,0 +1,31 @@
+{
+	"name": "es-shims",
+	"version": "0.0.0",
+	"description": "Everything required to ensure that a browser is as ECMAScript-compliant as possible.",
+	"main": "index.js",
+	"scripts": {
+		"test": "node test/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/es-shims/es-shims"
+	},
+	"keywords": [
+		"es5",
+		"es5-shim",
+		"es6",
+		"es6-shim",
+		"es-shim",
+		"ecmascript",
+		"shim",
+		"javascript",
+		"standard"
+	],
+	"author": "Jordan Harband <ljharb@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/es-shims/es-shims/issues"
+	},
+	"homepage": "https://github.com/es-shims/es-shims"
+}
+
