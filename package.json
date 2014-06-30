@@ -26,6 +26,9 @@
 	"bugs": {
 		"url": "https://github.com/es-shims/es-shims/issues"
 	},
-	"homepage": "https://github.com/es-shims/es-shims"
+	"homepage": "https://github.com/es-shims/es-shims",
+	"dependencies": {
+		"tape": "~2.13.3"
+	}
 }
 
