@@ -1,6 +1,6 @@
 {
 	"name": "es-shims",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "Everything required to ensure that a browser is as ECMAScript-compliant as possible.",
 	"main": "index.js",
 	"scripts": {
