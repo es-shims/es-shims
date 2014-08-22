@@ -14,11 +14,11 @@ Simply clone the repo, `npm install`, and run `npm test`
 
 [1]: https://npmjs.org/package/es-shims
 [2]: http://vb.teelaun.ch/es-shims/es-shims.svg
-[3]: https://travis-ci.org/es-shims/es-shims.png
+[3]: https://travis-ci.org/es-shims/es-shims.svg
 [4]: https://travis-ci.org/es-shims/es-shims
-[5]: https://david-dm.org/es-shims/es-shims.png
+[5]: https://david-dm.org/es-shims/es-shims.svg
 [6]: https://david-dm.org/es-shims/es-shims
-[7]: https://david-dm.org/es-shims/es-shims/dev-status.png
+[7]: https://david-dm.org/es-shims/es-shims/dev-status.svg
 [8]: https://david-dm.org/es-shims/es-shims#info=devDependencies
 [9]: https://ci.testling.com/es-shims/es-shims.png
 [10]: https://ci.testling.com/es-shims/es-shims
